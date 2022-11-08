@@ -1,4 +1,4 @@
-# Newsletter page
+# Rocketnews
 
 ### Created to just to practice some CSS, design not made by me!
 It's a newsletter subscribe page that gets to notify people whenever the admin wants. It gives the admin total power to send messages over to as many peoplo as he wants, or even for a selected group of people.
